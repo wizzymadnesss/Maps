@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="spinner">
+        <item>Mapa: Normal - Icono: Mundo - Localización: Japón</item>
+        <item>Mapa: Satélite - Icono: Satélite - Localización: Alemania</item>
+        <item>Mapa: Híbrido - Icono: Montañas - Localización: Italia</item>
+        <item>Mapa: Terrarian - Icono: Planos - Localización: Francia</item>
+    </string-array>
+
+</resources>
